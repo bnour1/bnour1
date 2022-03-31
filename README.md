@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=207deg, rgba(2,0,36,1) 0%, rgba(32,32,78,1) 50%, rgba(0,212,255,1) 100%)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=203,#20204e,#00d4ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats)

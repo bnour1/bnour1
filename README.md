@@ -9,10 +9,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bnour1.bnour1)
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats" width='510px' />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bnour1&count_private=true&show_icons=true&theme=tokyonight&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats" width='400px' />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnour1&theme=tokyonight&hide_border=tru" width='490px'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnour1&theme=tokyonight&hide_border=tru" width='400px'/>
 </a>
 
 
